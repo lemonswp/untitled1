@@ -23,4 +23,5 @@ public class App extends SpringBootServletInitializer
         application.setApplicationContextClass(AnnotationConfigWebApplicationContext.class);
         SpringApplication.run(App.class, args);
     }
+    int a=6;
 }
